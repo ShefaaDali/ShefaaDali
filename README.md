@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shefaadali&show_icons=true&locale=en&layout=compact" alt="shefaadali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shefaadali&show_icons=true&locale=en" alt="shefaadali" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shefaadali&" alt="shefaadali" /></p>
